@@ -1,12 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
-<body>
-  <div id="message"></div>
-  <pre id="heart"></pre>
-  <div id="proposal"></div>
-  <script src="script.js"></script>
-</body>
-</html>
+
