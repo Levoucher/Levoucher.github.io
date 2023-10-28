@@ -1,17 +1,1 @@
-document.getElementById('message').innerText = 'Hello, Vici! I have something to share with you...';
 
-const heart = [
-"  *****     *****",
-"*******   *******",
-"******** ********",
-"*****************",
-" ****************",
-"  **************",
-"   ************",
-"    **********",
-"      ******",
-"        **"].join('\n');
-
-document.getElementById('heart').innerText = heart;
-
-document.getElementById('proposal').innerText = 'Vici, I\'ve been trying to find the right words to express what I feel. I hope this simple program tells you more than words ever could. I really like you, and I\'d be incredibly happy if you would consider being my girlfriend. This is from my heart, to yours. Would you be my girlfriend?';
